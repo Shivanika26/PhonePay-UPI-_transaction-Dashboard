@@ -4,7 +4,7 @@ An interactive Excel dashboard designed to analyze UPI transaction data and prov
 
 ## 🖥️ Dashboard Preview
 
-![PhonePe UPI Transaction Dashboard](PhonePe_UPI_dashboard.png)
+![PhonePe UPI_dashboard](PhonePe_UPI_dashboard.png)
 
 ## 📌 Key KPIs
 
