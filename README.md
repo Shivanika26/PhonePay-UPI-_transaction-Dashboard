@@ -2,9 +2,6 @@
 
 An interactive Excel dashboard designed to analyze UPI transaction data and provide clear insights into transaction performance, spending patterns, customer demographics, cashback, and suspected fraud.
 
-## 🖥️ Dashboard Preview
-
-![PhonePe UPI Dashboard](./PhonePe UPI-dashboard.png)
 
 ## 📌 Key KPIs
 
