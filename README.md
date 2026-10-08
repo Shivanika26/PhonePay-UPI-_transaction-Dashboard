@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard designed to analyze UPI transaction data and provide clear insights into transaction performance, spending patterns, customer demographics, cashback, and suspected fraud.
 
-
+PhonePe UPI _dashboard.png
 ## 📌 Key KPIs
 
 - Total Transactions: 5,02,887
